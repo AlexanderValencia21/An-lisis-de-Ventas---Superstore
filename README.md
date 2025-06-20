@@ -42,7 +42,7 @@ Asegúrate de tener instaladas las siguientes herramientas:
 
 
 ```bash
-git clone https://github.com/tu-usuario/superstore-analisis.git
+git clone https://github.com/AlexanderValencia21/An-lisis-de-Ventas---Superstore.git
 cd superstore-analisis
 
 python -m venv venv
